@@ -8,3 +8,4 @@ This project has a lot of didatical samples using pytorch 2
 #### Transformers
 #### Variational AutoEncoders
 #### GANs
+#### Deep Learning for NLP
